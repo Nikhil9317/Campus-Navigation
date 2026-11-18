@@ -1,0 +1,6 @@
+{
+  "name": "Campus Navigator — LPU",
+  "description": "Smart campus navigation system for Lovely Professional University, Phagwara, Punjab with real OpenStreetMap mapping, Overpass POI sync, OSRM routing, Discover LPU, and QR sharing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
